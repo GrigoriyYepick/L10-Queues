@@ -1,0 +1,5 @@
+f:\Github\Highload-software-architecture\L10-Queues\redis_aof\Redis.Reader\obj\Debug\net5.0\Consumers.GeneratedMSBuildEditorConfig.editorconfig
+f:\Github\Highload-software-architecture\L10-Queues\redis_aof\Redis.Reader\obj\Debug\net5.0\Consumers.AssemblyInfoInputs.cache
+f:\Github\Highload-software-architecture\L10-Queues\redis_aof\Redis.Reader\obj\Debug\net5.0\Consumers.AssemblyInfo.cs
+f:\Github\Highload-software-architecture\L10-Queues\redis_aof\Redis.Reader\obj\Debug\net5.0\Consumers.csproj.CoreCompileInputs.cache
+f:\Github\Highload-software-architecture\L10-Queues\redis_aof\Redis.Reader\obj\Debug\net5.0\Consumers.MvcApplicationPartsAssemblyInfo.cache
