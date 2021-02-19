@@ -3,3 +3,6 @@ logs
 *.log
 
 **/nginx/cache
+*/obj/*
+*/bin/*
+*.suo
