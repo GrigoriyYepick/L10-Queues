@@ -5,4 +5,4 @@ logs
 **/nginx/cache
 **/obj/*
 **/bin/*
-**/.vs*/**
+**.suo
